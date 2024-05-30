@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ShiftyByte
+- 👀 I like shifting bytes around.
+- ⚡ Occasionally posting on https://www.hackitek.com/blog
